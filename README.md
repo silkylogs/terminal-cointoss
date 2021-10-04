@@ -13,5 +13,5 @@ gcc -o cointoss cointoss.c cointoss_main.c
 
 To compile the fairness test, paste the following:
 ```
-gcc -o cointoss cointoss.c FairnessTest.c
+gcc -o fairness_test cointoss.c FairnessTest.c
 ```
